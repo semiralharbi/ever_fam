@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816234122764",
+    "project_id": "everfam-69d80",
+    "storage_bucket": "everfam-69d80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816234122764:android:d5b324d3c33563a52d6829",
+        "android_client_info": {
+          "package_name": "com.example.everfam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMx6IbC-OdI_Wg131z9VkwO5pq5XuQXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
